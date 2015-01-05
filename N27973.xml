@@ -110,8 +110,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037273_0000_100CA4B88A0385B8"/>
-            <pb facs="tcp:037273_0001_100CA4BA8E5E3130" rendition="simple:additions"/>
+            <pb facs="unknown:037273_0000_100CA4B88A0385B8"/>
+            <pb facs="unknown:037273_0001_100CA4BA8E5E3130"
+                rendition="simple:additions"/>
             <p>A CURE <hi>FOR CANTING; AN ORIGINAL</hi> YANKEE POEM. <hi>IN TWO LETTERS.</hi>
             </p>
             <p>ARGUMENT. A candidate for the Ministry of the Gospel is highly censured by a Physician, for some little familiarities taken with a young mai<g ref="char:EOLhyphen"/>den, whom he accidentally met with in his rambles into the fields, in the season for Strawberries—The Reverend Divine makes a spirited reply, and seems to justify him<g ref="char:EOLhyphen"/>self.</p>
@@ -121,8 +122,9 @@
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:037273_0002_100CA4BCA29977B8" rendition="simple:additions"/>
-            <pb facs="tcp:037273_0003_100CA4BFD38A6548"/>
+            <pb facs="unknown:037273_0002_100CA4BCA29977B8"
+                rendition="simple:additions"/>
+            <pb facs="unknown:037273_0003_100CA4BFD38A6548"/>
             <head>
                <hi>A CURE</hi> FOR CANTING; AN ORIGINAL <hi>YANKEE POEM.</hi> IN TWO LETTERS.</head>
             <div n="1" type="letter">
@@ -144,7 +146,7 @@
                <l>'Twould never make your feelings mine:</l>
                <l>While ſome fair ſhe your partner ſtood,</l>
                <l>
-                  <pb n="4" facs="tcp:037273_0004_100CA4C15C3D2FE0"/>
+                  <pb n="4" facs="unknown:037273_0004_100CA4C15C3D2FE0"/>
 In natal charms, as nature ſhould;</l>
                <l>Yet careleſs ſhe, without deſign,</l>
                <l>Grew careful as a thing divine.</l>
@@ -186,7 +188,7 @@ In natal charms, as nature ſhould;</l>
                <l>(The lovely creature of another)</l>
                <l>By you been ſought? O! here I reſt,</l>
                <l>
-                  <pb n="5" facs="tcp:037273_0005_100CA4C2E3E3C268"/>
+                  <pb n="5" facs="unknown:037273_0005_100CA4C2E3E3C268"/>
 And wiſh to leave you ever bleſt.</l>
                <l>But Nathan knows, by revelation,</l>
                <l>The ſecrets of imagination:</l>
@@ -220,7 +222,7 @@ And wiſh to leave you ever bleſt.</l>
                <l>Muſt he alone who preaches truth,</l>
                <l>Be old and grey in midſt of youth:</l>
                <l>
-                  <pb n="6" facs="tcp:037273_0006_100CA4C5B16E6F28"/>
+                  <pb n="6" facs="unknown:037273_0006_100CA4C5B16E6F28"/>
 Nor treat a laſs in ſocial manner,</l>
                <l>When he, by chance, comes pat upon her?</l>
                <l>Nay, that I think is plaguy hard,</l>
@@ -266,7 +268,7 @@ Nor treat a laſs in ſocial manner,</l>
                <l>For David being a potent king,</l>
                <l>Was not confin'd to one poor thing,</l>
                <l>
-                  <pb n="7" facs="tcp:037273_0007_100CA4C7BA977B30"/>
+                  <pb n="7" facs="unknown:037273_0007_100CA4C7BA977B30"/>
 Taken for better or for worſe,</l>
                <l>Perhaps of life the plague and curſe.</l>
                <l>He had throughout a fruitful land—</l>
@@ -305,7 +307,7 @@ Taken for better or for worſe,</l>
                <l>Such as becomes a ſhepherdeſs,</l>
                <l>Made light and thin for Summer's day,</l>
                <l>
-                  <pb n="8" facs="tcp:037273_0008_100CA4C94A612678"/>
+                  <pb n="8" facs="unknown:037273_0008_100CA4C94A612678"/>
 To catch the zephyrs as they play,</l>
                <l>Her neck as fair as lilly ſhow'd,</l>
                <l>And round her, jetty treſſes flow'd,</l>
@@ -348,7 +350,7 @@ To catch the zephyrs as they play,</l>
                <l>Oblig'd, by longitude of face,</l>
                <l>T' evince the extent of faith and grace!</l>
                <l>
-                  <pb n="9" facs="tcp:037273_0009_100CA4CADD733EE0"/>
+                  <pb n="9" facs="unknown:037273_0009_100CA4CADD733EE0"/>
 Aſſume a ſolemn ghoſtly tone,</l>
                <l>Cry reaſon and <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -393,7 +395,7 @@ Aſſume a ſolemn ghoſtly tone,</l>
                <l>And wine and women ſhun as poiſon;</l>
                <l>Have nought to gratify his ſenſe,</l>
                <l>
-                  <pb n="10" facs="tcp:037273_0010_100CA4CE2CAFCDD8"/>
+                  <pb n="10" facs="unknown:037273_0010_100CA4CE2CAFCDD8"/>
 Except his pipe and indolence:</l>
                <l>And if he hankers for a wife,</l>
                <l>To ſmooth th' aſperities of life,</l>
@@ -432,7 +434,7 @@ Except his pipe and indolence:</l>
                <l>Who neither faith nor morals need;</l>
                <l>And if they can but write and read,</l>
                <l>
-                  <pb n="11" facs="tcp:037273_0011_100CA4D040C259E8"/>
+                  <pb n="11" facs="unknown:037273_0011_100CA4D040C259E8"/>
 May the profoundeſt ignorance wrap in</l>
                <l>Hard crabbed ſounds of Greek and Latin.</l>
                <l>To them mankind much credit give,</l>
@@ -473,7 +475,7 @@ May the profoundeſt ignorance wrap in</l>
                <l>The ſex's ails muſt all be cur'd.</l>
                <l>Hence he, t' inveſtigate diſeaſes,</l>
                <l>
-                  <pb n="12" facs="tcp:037273_0012_100CA4D1C94B0358"/>
+                  <pb n="12" facs="unknown:037273_0012_100CA4D1C94B0358"/>
 May feel and fumble where he pleaſes;</l>
                <l>And topics where requir'd apply,</l>
                <l>Each exigence to ſatisfy.</l>
